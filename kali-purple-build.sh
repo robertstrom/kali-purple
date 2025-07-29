@@ -11,7 +11,7 @@ scriptstarttime=$(date)
 #
 #                                                     Use the curl command below to start the script
 # 
-#      command -v curl || sudo apt install curl && bash <(curl --silent https://raw.githubusercontent.com/robertstrom/debian-kde-build/refs/heads/main/kali-purple-build.sh)
+#      command -v curl || sudo apt install curl && bash <(curl --silent https://raw.githubusercontent.com/robertstrom/kali-purple/refs/heads/main/kali-purple-build.sh)
 #
 #
 #############################################################################################################################################################################
