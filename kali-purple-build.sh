@@ -72,7 +72,7 @@ case "$arch" in
   x86_64|amd64)
     sudo DEBIAN_FRONTEND=noninteractive apt install -yq shellcheck libimage-exiftool-perl pv terminator xclip dolphin krusader kdiff3 kompare xxdiff \
     krename ksnip flameshot html2text csvkit remmina sipcalc xsltproc rinetd httptunnel tesseract-ocr ncdu grepcidr speedtest-cli cifs-utils nfs-common \
-    sshuttle mpack filezilla lolcat ripgrep bat dcfldd redis-tools jq keepassxc okular exfat-fuse exfatprogs xsel pandoc poppler-utils net-tools \
+    sshuttle mpack filezilla lolcat ripgrep bat dcfldd redis-tools jq keepassxc okular exfat-fuse exfatprogs xsel pandoc poppler-utils net-tools forensics-extra \
     ffmpeg fonts-liberation zbar-tools rlwrap lolcat 7zip pip virtualenv python3-virtualenv pipx tcpdump tmux fd-find tldr trash-cli bind9-dnstools \
     golang sublist3r tcpspy mono-complete zsh qemu-system-x86 libvirt-daemon-system virtinst virt-manager virt-viewer ovmf swtpm locate \
     qemu-utils guestfs-tools libosinfo-bin tuned fonts-powerline autojump htop glances btop vlc stacer audacity obs-studio handbrake handbrake-cli \
